@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Anderson Castillo. Soy un estudiante de programacion.  Tengo experiencias en diversos lenguajes de programacion y proyectos con dichos lenguajes en mi perfil, estos los podras encontrar en mis repositorios publicos. Tambien tengo experiencia con diversas herramientas para la gestion de base de datos, testing y control de Versiones</p>
+<p align="left">Soy un estudiante de programación, tengo experiencias en diversos lenguajes de programación de FrontEnd y BackEnd. Cuento con proyectos con dichos lenguajes en mi perfil de GitHub, estos los podrás encontrar en mis repositorios públicos. Tambien tengo experiencia con diversas herramientas para la gestion de base de datos, testing y control de Versiones.</p>
 
 ###
 
@@ -10,15 +10,7 @@
 
 ###
 
-<ul>
-  <li>Software Testing</li>
-  <li>Database</li>
-  <li>Logica de Programacion </li>
-  <li>Entendimiento del ciclo de vida del software </li>
-  <li>Trabajo en equipo. </li>
-  <li>Comunicacion </li>
-  <li>Ciclo de Vida de las pruebas de Testing.</li>
-</ul>
+<p align="left">- Software Testing.<br><br>- Database.<br><br>- Logica de Programacion.<br><br>- Entendimiento del ciclo de vida del software.<br><br>- Constante aprendizaje.<br><br>- Trabajo en Equipo.<br><br>- Ciclo de vida de las pruebas.</p>
 
 ###
 
@@ -26,16 +18,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
 </div>
 
 ###
@@ -44,14 +36,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo"  />
 </div>
 
 ###

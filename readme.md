@@ -1,4 +1,24 @@
-<h1 align="left">👌 Hi, Guys!! 👌</h1>
+<h1 align="center">✌️ Welcome People!! ✌️</h1>
+
+###
+
+<p align="left">Mi nombre es Anderson Castillo. Soy un estudiante de programacion.  Tengo experiencias en diversos lenguajes de programacion y proyectos con dichos lenguajes en mi perfil, estos los podras encontrar en mis repositorios publicos. Tambien tengo experiencia con diversas herramientas para la gestion de base de datos, testing y control de Versiones</p>
+
+###
+
+<h2 align="left">Habilidades:</h2>
+
+###
+
+<ul>
+  <li>Software Testing</li>
+  <li>Database</li>
+  <li>Logica de Programacion </li>
+  <li>Entendimiento del ciclo de vida del software </li>
+  <li>Trabajo en equipo. </li>
+  <li>Comunicacion </li>
+  <li>Ciclo de Vida de las pruebas de Testing.</li>
+</ul>
 
 ###
 

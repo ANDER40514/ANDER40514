@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Soy un estudiante de programación, tengo experiencias en diversos lenguajes de programación de FrontEnd y BackEnd. Cuento con proyectos con dichos lenguajes en mi perfil de GitHub, estos los podrás encontrar en mis repositorios públicos. Tambien tengo experiencia con diversas herramientas para la gestion de base de datos, testing y control de Versiones.</p>
+<p align="center">Mi nombre es Anderson Castillo. Soy un estudiante de programación, tengo experiencias en diversos lenguajes de programación de FrontEnd y BackEnd. Cuento con proyectos con dichos lenguajes en mi perfil de GitHub, estos los podrás encontrar en mis repositorios públicos. Tambien tengo experiencia con diversas herramientas para la gestion de base de datos, testing y control de Versiones.</p>
 
 ###
 

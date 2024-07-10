@@ -10,11 +10,18 @@
 
 ###
 
-<p align="left">- Software Testing.<br><br>- Database.<br><br>- Logica de Programacion.<br><br>- Entendimiento del ciclo de vida del software.<br><br>- Constante aprendizaje.<br><br>- Trabajo en Equipo.<br><br>- Ciclo de vida de las pruebas.</p>
+<ul> 
+ <li> Software Testing. </li>
+ <li> Logica de Programacion. </li>
+ <li> Entendimiento del ciclo de vida del software. </li>
+ <li> Constante aprendizaje. </li>
+ <li> Trabajo en Equipo. </li>
+ <li> Ciclo de vida de las pruebas de Testing. </li>
+</ul>
 
 ###
 
-<h3 align="left">Code With</h3>
+<h2 align="left">Code With</h3>
 
 ###
 
@@ -32,7 +39,7 @@
 
 ###
 
-<h3 align="left">Tools Use</h3>
+<h2 align="left">Tools Use</h3>
 
 ###
 

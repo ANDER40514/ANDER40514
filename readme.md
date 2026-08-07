@@ -8,7 +8,6 @@ I specialize in building scalable automation frameworks using Playwright and Typ
 
 I enjoy writing clean, maintainable code and constantly learning new technologies that help improve software quality.
 
----
 
 <br>
 

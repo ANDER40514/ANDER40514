@@ -1,4 +1,6 @@
-<h1 text-align="center"> Hi there 👋 I'm Anderson Castillo </h1>
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There,%20I'm%20Anderson%20Castillo&section=header&fontAlign=49&fontSize=55"/>
+</p>
 
 ## 🚀 Software QA Engineer | Test Automation Engineer
 
@@ -48,40 +50,63 @@ I enjoy writing clean, maintainable code and constantly learning new technologie
 ## 🛠 Tech Stack
 
 ### Languages
-- TypeScript
-- JavaScript
-- SQL
-- Java
+
+<table>
+  <th>TypeScript</th>
+  <th>JavaScript</th>
+  <th>SQL</th>
+  <th>Java</th>
+</table>
+
 
 ### Test Automation
-- Playwright ⭐
-- Cypress (Basic)
+<table>
+  <th>Playwright ⭐</th>
+  <th>Cypress (Basic)</th>
+</table>
+
 
 ### API Testing
-- Postman
-- Apidog
+<table>
+  <th>Postman</th>
+  <th>ApiDog</th>
+</table>
+
 
 ### Performance Testing
-- K6 (Basic)
+<table>
+   <th>K6 (Basic)</th>
+</table>
   
 ### Databases
-- MySQL
-- SQL Server
+<table>
+  <th>MySql</th>
+  <th>SQL Server</th>
+  <th>PostgreSQL</th>
+  <th>MariaDB</th>
+</table>
+
 
 ### Frontend
-- HTML
-- CSS
-- Bootstrap
-- Angular (Testing)
+<table>
+  <th>HTML</th>
+  <th>CSS</th>
+  <th>Bootstrap</th>
+  <th>Angular (Testing)</th>
+  <th>React</th>
+</table>
+
 
 ### Tools
-- Git
-- GitHub
-- Azure DevOps
-- Jira
-- VS Code
-- Figma
-- Docker (Learning)
+<table>
+ <th>Git</th>
+  <th>Azure DevOps</th>
+ <th>Jira</th>
+ <th>Visual Studio Code</th>
+ <th>Figma</th>
+ <th>Docker (Learning)</th>
+</table>
+
 
 
 ## 📌 Current Focus
@@ -92,3 +117,7 @@ I enjoy writing clean, maintainable code and constantly learning new technologie
 - Clean Code
 - TypeScript Best Practices
 - English 🇺🇸
+
+<p>
+ <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20wathching.&section=footer&fontAlign=49&fontSize=55&animation=twinkling' />
+</p>
